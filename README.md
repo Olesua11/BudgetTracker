@@ -71,3 +71,4 @@ app/
 │   └── adddata/
 ├── MainActivity
 └── App
+<img width="1952" height="1078" alt="image" src="https://github.com/user-attachments/assets/d1eed64e-eda4-435e-83f7-3964df62b37f" />
