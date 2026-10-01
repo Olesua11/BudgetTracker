@@ -7,12 +7,8 @@ Android-приложение для учета личных финансов и 
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="220">
-  <img src="screenshots/balance.png" width="220">
-  <img src="screenshots/income.png" width="220">
-  <img src="screenshots/add_expense.png" width="220">
+  <img src="budgettracker_screens.png" width="100%">
 </p>
-
 ## Features
 
 - просмотр общей суммы
